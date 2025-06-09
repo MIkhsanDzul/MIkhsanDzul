@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Golang**
 - 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/IkhsanDzul)
 - 📫 How to reach me: **ikhsandzulhannan@gmail.com**
-- ⚡ Fun fact: I love tech, design, and memes 👾
+- ⚡ Fun fact: I love tech, games, and memes 👾
 
 ---
 
