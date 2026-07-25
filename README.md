@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently developing **multi-tenant SaaS platforms (POS, F&B, HRMS) and SPP Online systems.**
+- 🔭 I’m currently developing **multi-tenant SaaS platforms (POS, F&B, HRMS)**
 - 💻 My go-to stack includes **Laravel, Blade, Tailwind CSS, and JWT Authentication.**
 - 🌱 I’m currently learning **Golang** and exploring **procedural generation in Roblox Studio.**
 - 📫 How to reach me: **ikhsandzulhannan@gmail.com**
